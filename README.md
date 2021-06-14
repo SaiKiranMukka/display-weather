@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+###  Initial Setup
+
+Before starting, grab the key from [openweathermap.org] and create the .env file using the provided .env.sample file
+
 ## Available Scripts
 
 In the project directory, you can run:
