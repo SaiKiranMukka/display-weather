@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Live Demo
+
+can have a look into the working model by clicking [Display Weather](https://saikiranmukka.github.io/display-weather/)
 
 ###  Initial Setup
 
